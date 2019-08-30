@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Key Skills
+
+*Programming*
+_Teaching_
+
+**Electoral Office - Polling Station Manager**
+__Trustee__
+
+_Working for **charity** organisations_
